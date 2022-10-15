@@ -32,7 +32,6 @@ public class Main {
 
         datos.removeAll();
 
-
         System.out.println("------------------");
 
         iterator = datos.getIterator();
